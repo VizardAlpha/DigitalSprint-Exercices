@@ -25,7 +25,7 @@ Voilà des _informations complémentaire_ à propos de moi et en prime mon rése
 
 ## Mon animal prefere :
 
-J'adore <span style="color: #26B260"> les alpagas</span>, mais par contre, <span style="color: #FF0000">~~j'ai une enemi juré !~~</span>
+J'adore <span style="color: #26B260"> les alpagas</span>, mais par contre, <span style="color: #FF0000">~~j'ai un enemi juré !~~</span>
 
 ![Alpaga](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTYOsdghd_Pq46cn9Ixx_nLh2AyEEYYehJQ&usqp=CAU)
 
